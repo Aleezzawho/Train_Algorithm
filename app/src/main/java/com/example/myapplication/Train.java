@@ -1,4 +1,4 @@
-package com.example.myapplication.trains;
+package com.example.myapplication;
 
 import java.io.Serializable;
 
