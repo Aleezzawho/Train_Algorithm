@@ -1,11 +1,11 @@
-package com.example.myapplication;
+package com.example.myapplication.trains;
 
 import java.io.Serializable;
 
-public class trains implements Serializable {
+public class Train implements Serializable {
     private int number;
 
-    public trains(int number) {
+    public Train(int number) {
         if (number < 1) throw new IllegalArgumentException("Number cannot be lower than 1!");
         this.number = number;
     }
