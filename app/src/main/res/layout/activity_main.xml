@@ -9,8 +9,8 @@
 
     <EditText
         android:id="@+id/OrderString"
-        android:layout_width="263dp"
-        android:layout_height="53dp"
+        android:layout_width="246dp"
+        android:layout_height="54dp"
         android:ems="10"
         android:hint="Enter the order to check:"
         android:inputType="text"
@@ -23,8 +23,8 @@
 
     <TextView
         android:id="@+id/textView"
-        android:layout_width="182dp"
-        android:layout_height="123dp"
+        android:layout_width="373dp"
+        android:layout_height="281dp"
         android:fontFamily="@font/mochiy_pop_one"
         android:text="Railway Permutation Simulator"
         android:textAlignment="textStart"
@@ -32,10 +32,10 @@
         android:textStyle="bold"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.069"
+        app:layout_constraintHorizontal_bias="0.421"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.026" />
+        app:layout_constraintVertical_bias="0.035" />
 
     <ImageView
         android:id="@+id/imageView2"
