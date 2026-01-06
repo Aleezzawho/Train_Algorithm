@@ -70,6 +70,13 @@ public class MainActivity extends AppCompatActivity {
                 helpingSina.add("P");
                 Jaaygasht.add("I1");
             }
+
+//            Log.d("MainActivity", "i=" + i +
+//                    " result=" + result +
+//                    " extra=" + extra +
+//                    " final=" + final1 +
+//                    " steps=" + helpingSina);
+
         }
 
         if (result.size() != final1.size()) {
